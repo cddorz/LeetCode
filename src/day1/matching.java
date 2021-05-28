@@ -13,10 +13,10 @@ import java.util.Map;
 public class matching {
     public boolean isValid(String s) {
         int n = s.length();
+        //如果长度是奇数，一定不匹配
         if (n % 2 == 1) {
             return false;
         }
-
         Map<Character, Character> pairs = new HashMap<Character,Character>() {{
             put(')', '(');
             put(']', '[');
