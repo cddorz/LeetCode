@@ -4,38 +4,9 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="day4">
+    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="test: 单元测试">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1/matching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/matching.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/intertval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/intertval.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/numT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/numT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/topKFrequent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/topKFrequent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11/target.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day11/target.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11/子集.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day11/子集.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/color.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/sortList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/sortList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day13/lc560.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day13/lc560.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day13/subsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day13/subsets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day14/lc33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day14/lc33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day14/lc581.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day14/lc581.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day15/lc19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day15/lc19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day15/lc240.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day15/lc240.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day15/lc48.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day15/lc48.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16/lc238.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day16/lc238.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16/lc406.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day16/lc406.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day17/lc46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day17/lc46.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5/cycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day5/cycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5/invert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day5/invert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5/xiangjiao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day5/xiangjiao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day6/findDisappear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day6/findDisappear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day6/hamming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day6/hamming.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day6/zuidaluj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day6/zuidaluj.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day7/climb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day7/climb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day7/max.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day7/max.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day8/chaifen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day8/chaifen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day8/sousuo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day8/sousuo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day9/bst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day9/bst.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day9/path.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day9/path.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/single.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day3/single.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,13 +63,26 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Application.lc46">
+  <component name="RunManager" selected="Application.快速排序">
+    <configuration name="快速排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.算法总结.快速排序" />
+      <module name="算法题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.算法总结.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="lc46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.day17.lc46" />
       <module name="算法题" />
@@ -125,8 +109,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.快速排序" />
         <item itemvalue="Application.lc46" />
         <item itemvalue="Application.square" />
       </list>
@@ -183,6 +179,9 @@
       <workItem from="1619055602363" duration="6555000" />
       <workItem from="1619244571940" duration="4467000" />
       <workItem from="1619317998307" duration="1237000" />
+      <workItem from="1622169613384" duration="3937000" />
+      <workItem from="1622360750177" duration="332000" />
+      <workItem from="1622428436467" duration="3798000" />
     </task>
     <task id="LOCAL-00001" summary="day4">
       <created>1617550997898</created>
@@ -191,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617550997898</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test: 单元测试">
+      <created>1622169695296</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622169695296</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +217,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="day4" />
-    <option name="LAST_COMMIT_MESSAGE" value="day4" />
+    <MESSAGE value="test: 单元测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="test: 单元测试" />
   </component>
 </project>

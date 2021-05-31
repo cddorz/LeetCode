@@ -14,6 +14,7 @@ public class single {
         for(Integer i : nums){
             Integer count = map.get(i);
             count = count == null ? 1 : ++count;
+            // 会覆盖旧值
             map.put(i,count);
         }
         for(Integer i : map.keySet()){
