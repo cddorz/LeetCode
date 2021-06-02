@@ -1,7 +1,4 @@
 package src.day6;
-
-import java.util.ArrayList;
-
 /**
  * 两个整数之间的汉明距离指的是这两个数字对应二进制位不同的位置的数目。
  * 给出两个整数 x 和 y，计算它们之间的汉明距离。
@@ -16,10 +13,14 @@ public class hamming {
         int distance = 0;
         //右移位统计xor的1
         while (xor != 0) {
-            if (xor % 2 == 1)
+            // 因为若二进制末位为1，则 % 2 一定为1
+            if (xor % 2 == 1) {
                 distance += 1;
+            }
+            // 右移，判断下一位
             xor = xor >> 1;
         }
         return distance;
     }
+
 }
