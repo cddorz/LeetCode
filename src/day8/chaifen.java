@@ -28,6 +28,7 @@ public class chaifen {
         boolean[] dp = new boolean[s.length()+1];
         for(int j = 1;j < s.length();j++){
             for(int i = j-1; i >= 0; i--){
+                // dp[8] = dp[5] + check("pen")
                 dp[j] = dp[i] && check(s.substring(i,j));
                 if(dp[j]){
                     break;
