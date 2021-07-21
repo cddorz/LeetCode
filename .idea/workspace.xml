@@ -4,8 +4,8 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat: lc23合并K个升序链表">
-      <change afterPath="$PROJECT_DIR$/src/day18/Twitter.java" afterDir="false" />
+    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat: lc355 设计twitter">
+      <change afterPath="$PROJECT_DIR$/src/day19/lc92.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,15 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -204,7 +202,9 @@
       <workItem from="1626145379755" duration="4029000" />
       <workItem from="1626239964307" duration="9000" />
       <workItem from="1626575543706" duration="2968000" />
-      <workItem from="1626698843779" duration="3192000" />
+      <workItem from="1626698843779" duration="4667000" />
+      <workItem from="1626750929577" duration="1296000" />
+      <workItem from="1626839040555" duration="2135000" />
     </task>
     <task id="LOCAL-00001" summary="day4">
       <created>1617550997898</created>
@@ -248,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626579374909</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat: lc355 设计twitter">
+      <created>1626702094282</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1626702094282</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,6 +280,7 @@
     <MESSAGE value="fix: 修改翻转二叉树" />
     <MESSAGE value="fix: 修改汉明距离代码注释" />
     <MESSAGE value="feat: lc23合并K个升序链表" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: lc23合并K个升序链表" />
+    <MESSAGE value="feat: lc355 设计twitter" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: lc355 设计twitter" />
   </component>
 </project>
