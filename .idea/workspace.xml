@@ -4,9 +4,14 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat: lc355 设计twitter">
-      <change afterPath="$PROJECT_DIR$/src/day19/lc92.java" afterDir="false" />
+    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat: lc92 反转链表Ⅱ">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day19/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day19/lc199.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day19/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day14/lc581.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day14/lc581.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,13 +68,13 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Application.hamming">
+  <component name="RunManager" selected="Application.test">
     <configuration name="快速排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.算法总结.快速排序" />
       <module name="算法题" />
@@ -122,6 +127,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.day19.test" />
+      <module name="算法题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.day19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -135,6 +153,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.hamming" />
         <item itemvalue="Application.快速排序" />
         <item itemvalue="Application.lc46" />
@@ -204,7 +223,11 @@
       <workItem from="1626575543706" duration="2968000" />
       <workItem from="1626698843779" duration="4667000" />
       <workItem from="1626750929577" duration="1296000" />
-      <workItem from="1626839040555" duration="2135000" />
+      <workItem from="1626839040555" duration="2351000" />
+      <workItem from="1626924547367" duration="3666000" />
+      <workItem from="1626928342232" duration="2827000" />
+      <workItem from="1626958213927" duration="815000" />
+      <workItem from="1627009537814" duration="738000" />
     </task>
     <task id="LOCAL-00001" summary="day4">
       <created>1617550997898</created>
@@ -255,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626702094282</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="feat: lc92 反转链表Ⅱ">
+      <created>1626841401266</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1626841401266</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,6 +311,31 @@
     <MESSAGE value="fix: 修改汉明距离代码注释" />
     <MESSAGE value="feat: lc23合并K个升序链表" />
     <MESSAGE value="feat: lc355 设计twitter" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: lc355 设计twitter" />
+    <MESSAGE value="feat: lc92 反转链表Ⅱ" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: lc92 反转链表Ⅱ" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/day19/LRUCache.java</url>
+          <line>48</line>
+          <properties class="src.day19.LRUCache" method="put">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="minUsed.toArray()[0]" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$test.ic" NAME="test Coverage Results" MODIFIED="1626928216685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>src.day19.*</FILTER>
+    </SUITE>
   </component>
 </project>

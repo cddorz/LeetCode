@@ -32,7 +32,7 @@ public class lc581 {
                 end = Math.max(end,i);
             }
         }
-        return (end - start >x 0 ? end - start + 1 : 0);
+        return (end - start > 0 ? end - start + 1 : 0);
     }
 
     /**
