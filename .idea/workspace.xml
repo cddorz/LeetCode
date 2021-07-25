@@ -4,14 +4,11 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat: lc92 反转链表Ⅱ">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19/lc199.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat lc199 二叉树的右视图">
+      <change afterPath="$PROJECT_DIR$/src/day20/lc105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day20/lc111.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day14/lc581.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day14/lc581.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day19/lc199.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day19/lc199.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +24,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feat" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -140,24 +142,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.hamming" />
         <item itemvalue="Application.快速排序" />
-        <item itemvalue="Application.lc46" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.square" />
+        <item itemvalue="Application.lc46" />
+        <item itemvalue="Application.hamming" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +218,11 @@
       <workItem from="1626924547367" duration="3666000" />
       <workItem from="1626928342232" duration="2827000" />
       <workItem from="1626958213927" duration="815000" />
-      <workItem from="1627009537814" duration="738000" />
+      <workItem from="1627009537814" duration="857000" />
+      <workItem from="1627032842504" duration="82000" />
+      <workItem from="1627033594796" duration="126000" />
+      <workItem from="1627134279005" duration="3706000" />
+      <workItem from="1627181097778" duration="1451000" />
     </task>
     <task id="LOCAL-00001" summary="day4">
       <created>1617550997898</created>
@@ -285,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626841401266</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="feat lc199 二叉树的右视图">
+      <created>1627010327606</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1627010327606</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,7 +314,8 @@
     <MESSAGE value="feat: lc23合并K个升序链表" />
     <MESSAGE value="feat: lc355 设计twitter" />
     <MESSAGE value="feat: lc92 反转链表Ⅱ" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: lc92 反转链表Ⅱ" />
+    <MESSAGE value="feat lc199 二叉树的右视图" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat lc199 二叉树的右视图" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
