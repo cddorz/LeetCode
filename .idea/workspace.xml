@@ -4,11 +4,10 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat lc199 二叉树的右视图">
-      <change afterPath="$PROJECT_DIR$/src/day20/lc105.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day20/lc111.java" afterDir="false" />
+    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat lc105 构造二叉树">
+      <change afterPath="$PROJECT_DIR$/src/day21/lc117.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21/lc572.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day19/lc199.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day19/lc199.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,7 +221,11 @@
       <workItem from="1627032842504" duration="82000" />
       <workItem from="1627033594796" duration="126000" />
       <workItem from="1627134279005" duration="3706000" />
-      <workItem from="1627181097778" duration="1451000" />
+      <workItem from="1627181097778" duration="1715000" />
+      <workItem from="1627462479596" duration="2345000" />
+      <workItem from="1627545526736" duration="1671000" />
+      <workItem from="1627610909710" duration="1142000" />
+      <workItem from="1627711033455" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="day4">
       <created>1617550997898</created>
@@ -287,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627010327606</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="feat lc105 构造二叉树">
+      <created>1627182785641</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1627182785641</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,7 +325,8 @@
     <MESSAGE value="feat: lc355 设计twitter" />
     <MESSAGE value="feat: lc92 反转链表Ⅱ" />
     <MESSAGE value="feat lc199 二叉树的右视图" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat lc199 二叉树的右视图" />
+    <MESSAGE value="feat lc105 构造二叉树" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat lc105 构造二叉树" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
