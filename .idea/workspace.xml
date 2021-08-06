@@ -7,9 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat 拓扑排序解决课程表">
-      <change afterPath="$PROJECT_DIR$/src/图系列/lc997.java" afterDir="false" />
+    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat 投票法找到小镇法官">
+      <change afterPath="$PROJECT_DIR$/src/图系列/lc684.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/图系列/lc997.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/图系列/lc997.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +232,8 @@
       <workItem from="1627711033455" duration="24000" />
       <workItem from="1628044178274" duration="168000" />
       <workItem from="1628044542770" duration="1709000" />
-      <workItem from="1628129271971" duration="926000" />
+      <workItem from="1628129271971" duration="1044000" />
+      <workItem from="1628216380757" duration="2030000" />
     </task>
     <task id="LOCAL-00001" summary="day4">
       <created>1617550997898</created>
@@ -317,7 +319,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628047289802</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="feat 投票法找到小镇法官">
+      <created>1628130259851</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1628130259851</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -348,7 +357,8 @@
     <MESSAGE value="feat lc105 构造二叉树" />
     <MESSAGE value="feat xx" />
     <MESSAGE value="feat 拓扑排序解决课程表" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat 拓扑排序解决课程表" />
+    <MESSAGE value="feat 投票法找到小镇法官" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat 投票法找到小镇法官" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

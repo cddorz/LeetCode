@@ -7,7 +7,7 @@ package src.图系列;
  */
 public class lc997 {
     public int findJudge(int n, int[][] trust) {
-        int[] votes = new int[];
+        int[] votes = new int[n+1];
         for(int[] vote : trust){
             votes[vote[1]]++;
             votes[vote[0]]--;
