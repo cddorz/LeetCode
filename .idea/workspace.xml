@@ -7,10 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat 并查集">
-      <change afterPath="$PROJECT_DIR$/src/dp/lc64.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat 动态规划--最小路径和" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -233,7 +230,7 @@
       <workItem from="1628044542770" duration="1709000" />
       <workItem from="1628129271971" duration="1044000" />
       <workItem from="1628216380757" duration="2332000" />
-      <workItem from="1628414469011" duration="300000" />
+      <workItem from="1628414469011" duration="498000" />
     </task>
     <task id="LOCAL-00001" summary="day4">
       <created>1617550997898</created>
@@ -333,7 +330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628220531122</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="feat 动态规划--最小路径和">
+      <created>1628414941894</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1628414941894</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,7 +370,8 @@
     <MESSAGE value="feat 拓扑排序解决课程表" />
     <MESSAGE value="feat 投票法找到小镇法官" />
     <MESSAGE value="feat 并查集" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat 并查集" />
+    <MESSAGE value="feat 动态规划--最小路径和" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat 动态规划--最小路径和" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
