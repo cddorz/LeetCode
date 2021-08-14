@@ -7,9 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat 动态规划--比特位计数">
-      <change afterPath="$PROJECT_DIR$/src/位运算/lc287.java" afterDir="false" />
+    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat 位运算-模拟环形链表">
+      <change afterPath="$PROJECT_DIR$/src/位运算/lc231.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day6/hamming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/位运算/hamming.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +79,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Application.lc231">
     <configuration name="快速排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.算法总结.快速排序" />
       <module name="算法题" />
@@ -92,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hamming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.day6.hamming" />
+    <configuration name="lc231" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.位运算.lc231" />
       <module name="算法题" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.day6.*" />
+          <option name="PATTERN" value="src.位运算.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lc231" />
         <item itemvalue="Application.快速排序" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.square" />
         <item itemvalue="Application.lc46" />
-        <item itemvalue="Application.hamming" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +239,8 @@
       <workItem from="1628481897793" duration="2618000" />
       <workItem from="1628489918313" duration="23000" />
       <workItem from="1628647610497" duration="612000" />
-      <workItem from="1628740096391" duration="291000" />
+      <workItem from="1628740096391" duration="719000" />
+      <workItem from="1628909951027" duration="1358000" />
     </task>
     <task id="LOCAL-00001" summary="day4">
       <created>1617550997898</created>
@@ -366,7 +368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628648221537</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="feat 位运算-模拟环形链表">
+      <created>1628740639009</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1628740639009</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -402,7 +411,8 @@
     <MESSAGE value="feat 动态规划--最小路径和" />
     <MESSAGE value="feat 动态规划--打家劫舍" />
     <MESSAGE value="feat 动态规划--比特位计数" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat 动态规划--比特位计数" />
+    <MESSAGE value="feat 位运算-模拟环形链表" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat 位运算-模拟环形链表" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
