@@ -1,4 +1,4 @@
-package src.day9;
+package src.二叉树;
 
 
 /**
@@ -8,6 +8,11 @@ package src.day9;
  * @create 2021-04-09 15:42
  */
 public class bst {
+    public class TreeNode{
+        int val;
+        TreeNode left;
+        TreeNode right;
+    }
     long pre = Long.MIN_VALUE;
     public boolean isValidBST(TreeNode root) {
         if(root == null){
@@ -25,10 +30,4 @@ public class bst {
         //递归遍历右子树
         return isValidBST(root.right);
     }
-    public class TreeNode{
-        int val;
-        TreeNode left;
-        TreeNode right;
-    }
-
 }

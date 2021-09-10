@@ -1,4 +1,4 @@
-package src.day8;
+package src.DFS;
 
 /**
  * 单词搜索
