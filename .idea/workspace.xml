@@ -7,9 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat BFS-层序遍历">
-      <change afterPath="$PROJECT_DIR$/src/dp/lc22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/二叉树/lc114.java" afterDir="false" />
+    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat 二叉树展开为链表 + dp">
+      <change afterPath="$PROJECT_DIR$/src/day21/lc215.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dp/lc322.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +54,9 @@
     <option name="vmOptions" value="-Xms128m -Xmx512m -Duser.language=zh -Dfile.encoding=UTF-8" />
   </component>
   <component name="ProjectId" id="1pt6t9chpuKhdIOQfMJrgrGz5HT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -250,7 +252,12 @@
       <workItem from="1631174713659" duration="86000" />
       <workItem from="1631241381701" duration="1026000" />
       <workItem from="1631501338598" duration="1454000" />
-      <workItem from="1631671657532" duration="1326000" />
+      <workItem from="1631671657532" duration="1707000" />
+      <workItem from="1631673804194" duration="594000" />
+      <workItem from="1631757836965" duration="989000" />
+      <workItem from="1631862351897" duration="18000" />
+      <workItem from="1632318332232" duration="919000" />
+      <workItem from="1632323646722" duration="1442000" />
     </task>
     <task id="LOCAL-00001" summary="day4">
       <created>1617550997898</created>
@@ -420,7 +427,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631242385853</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="feat 二叉树展开为链表 + dp">
+      <created>1631673320766</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1631673320766</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -462,7 +476,8 @@
     <MESSAGE value="feat 接雨水" />
     <MESSAGE value="feat dfs--岛屿问题" />
     <MESSAGE value="feat BFS-层序遍历" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat BFS-层序遍历" />
+    <MESSAGE value="feat 二叉树展开为链表 + dp" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat 二叉树展开为链表 + dp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
