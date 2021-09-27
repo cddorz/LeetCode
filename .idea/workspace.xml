@@ -7,9 +7,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat 二叉树展开为链表 + dp">
-      <change afterPath="$PROJECT_DIR$/src/day21/lc215.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/lc322.java" afterDir="false" />
+    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat new lc">
+      <change afterPath="$PROJECT_DIR$/src/day21/lc387.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21/lc9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数组/lc88.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/链表/lc25.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +83,7 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Application.lc231">
+  <component name="RunManager" selected="Application.lc9">
     <configuration name="快速排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.算法总结.快速排序" />
       <module name="算法题" />
@@ -108,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.day17.lc46" />
+    <configuration name="lc9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.day21.lc9" />
       <module name="算法题" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.day17.*" />
+          <option name="PATTERN" value="src.day21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lc9" />
         <item itemvalue="Application.lc231" />
         <item itemvalue="Application.快速排序" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.square" />
-        <item itemvalue="Application.lc46" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +259,13 @@
       <workItem from="1631757836965" duration="989000" />
       <workItem from="1631862351897" duration="18000" />
       <workItem from="1632318332232" duration="919000" />
-      <workItem from="1632323646722" duration="1442000" />
+      <workItem from="1632323646722" duration="1605000" />
+      <workItem from="1632363636156" duration="2009000" />
+      <workItem from="1632379056615" duration="609000" />
+      <workItem from="1632483141690" duration="636000" />
+      <workItem from="1632635422369" duration="1195000" />
+      <workItem from="1632663764330" duration="476000" />
+      <workItem from="1632710390169" duration="1541000" />
     </task>
     <task id="LOCAL-00001" summary="day4">
       <created>1617550997898</created>
@@ -434,7 +442,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631673320766</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="feat new lc">
+      <created>1632325138975</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1632325138975</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -477,7 +492,8 @@
     <MESSAGE value="feat dfs--岛屿问题" />
     <MESSAGE value="feat BFS-层序遍历" />
     <MESSAGE value="feat 二叉树展开为链表 + dp" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat 二叉树展开为链表 + dp" />
+    <MESSAGE value="feat new lc" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat new lc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
