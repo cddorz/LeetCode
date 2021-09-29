@@ -7,13 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat new lc">
-      <change afterPath="$PROJECT_DIR$/src/day21/lc387.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day21/lc9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数组/lc88.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/链表/lc25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat 翻转k个链表" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -265,7 +259,7 @@
       <workItem from="1632483141690" duration="636000" />
       <workItem from="1632635422369" duration="1195000" />
       <workItem from="1632663764330" duration="476000" />
-      <workItem from="1632710390169" duration="1541000" />
+      <workItem from="1632710390169" duration="1612000" />
     </task>
     <task id="LOCAL-00001" summary="day4">
       <created>1617550997898</created>
@@ -449,7 +443,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632325138975</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="feat 翻转k个链表">
+      <created>1632711984337</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1632711984337</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -468,7 +469,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="day4" />
     <MESSAGE value="test: 单元测试" />
     <MESSAGE value="fix: single" />
     <MESSAGE value="fix: 修改翻转二叉树" />
@@ -493,7 +493,8 @@
     <MESSAGE value="feat BFS-层序遍历" />
     <MESSAGE value="feat 二叉树展开为链表 + dp" />
     <MESSAGE value="feat new lc" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat new lc" />
+    <MESSAGE value="feat 翻转k个链表" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat 翻转k个链表" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
