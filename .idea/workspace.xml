@@ -7,13 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat 旋转链表，并且移动 k 位">
-      <change afterPath="$PROJECT_DIR$/src/day19/lc146.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/二叉树/lc100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/双指针/lc27.java" afterDir="false" />
+    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat new leetcode">
+      <change afterPath="$PROJECT_DIR$/src/双指针/lc143.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/双指针/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day19/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day19/LRUCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day19/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day19/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -273,7 +270,7 @@
       <workItem from="1632969119146" duration="21000" />
       <workItem from="1633573935952" duration="76000" />
       <workItem from="1633663518037" duration="5151000" />
-      <workItem from="1633748489195" duration="1770000" />
+      <workItem from="1633748489195" duration="4565000" />
     </task>
     <task id="LOCAL-00001" summary="day4">
       <created>1617550997898</created>
@@ -471,7 +468,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632914307436</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="feat new leetcode">
+      <created>1633750442686</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1633750442686</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,7 +494,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix: single" />
     <MESSAGE value="fix: 修改翻转二叉树" />
     <MESSAGE value="fix: 修改汉明距离代码注释" />
     <MESSAGE value="feat: lc23合并K个升序链表" />
@@ -515,7 +518,8 @@
     <MESSAGE value="feat new lc" />
     <MESSAGE value="feat 翻转k个链表" />
     <MESSAGE value="feat 旋转链表，并且移动 k 位" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat 旋转链表，并且移动 k 位" />
+    <MESSAGE value="feat new leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat new leetcode" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
