@@ -7,7 +7,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat 翻转k个链表" />
+    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat 旋转链表，并且移动 k 位">
+      <change afterPath="$PROJECT_DIR$/src/day19/lc146.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/二叉树/lc100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/双指针/lc27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day19/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day19/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day19/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day19/test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +84,7 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Application.lc9">
+  <component name="RunManager" selected="Application.test">
     <configuration name="快速排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.算法总结.快速排序" />
       <module name="算法题" />
@@ -145,10 +152,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.lc9" />
         <item itemvalue="Application.lc231" />
         <item itemvalue="Application.快速排序" />
-        <item itemvalue="Application.test" />
         <item itemvalue="Application.square" />
       </list>
     </recent_temporary>
@@ -260,6 +267,13 @@
       <workItem from="1632635422369" duration="1195000" />
       <workItem from="1632663764330" duration="476000" />
       <workItem from="1632710390169" duration="1612000" />
+      <workItem from="1632914022344" duration="313000" />
+      <workItem from="1632916752823" duration="1189000" />
+      <workItem from="1632969057257" duration="8000" />
+      <workItem from="1632969119146" duration="21000" />
+      <workItem from="1633573935952" duration="76000" />
+      <workItem from="1633663518037" duration="5151000" />
+      <workItem from="1633748489195" duration="1770000" />
     </task>
     <task id="LOCAL-00001" summary="day4">
       <created>1617550997898</created>
@@ -450,7 +464,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632711984337</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="feat 旋转链表，并且移动 k 位">
+      <created>1632914307436</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1632914307436</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -469,7 +490,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test: 单元测试" />
     <MESSAGE value="fix: single" />
     <MESSAGE value="fix: 修改翻转二叉树" />
     <MESSAGE value="fix: 修改汉明距离代码注释" />
@@ -494,21 +514,10 @@
     <MESSAGE value="feat 二叉树展开为链表 + dp" />
     <MESSAGE value="feat new lc" />
     <MESSAGE value="feat 翻转k个链表" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat 翻转k个链表" />
+    <MESSAGE value="feat 旋转链表，并且移动 k 位" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat 旋转链表，并且移动 k 位" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/day19/LRUCache.java</url>
-          <line>48</line>
-          <properties class="src.day19.LRUCache" method="put">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="minUsed.toArray()[0]" language="JAVA" />

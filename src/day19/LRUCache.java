@@ -49,15 +49,18 @@ public class LRUCache {
     public void put(int key, int value) {
         timestamp++;
         if(cache.size() >= capacity){
-            Integer min = minUsed.remove();
-            int min_pre = min.intValue();
-            for(int getKey : map.keySet()){
-                if(map.get(getKey).equals(min_pre)){
-                    getkey = getKey;
-                    break;
+            while (getkey == 0){
+                Integer min = minUsed.remove();
+                int min_pre = min.intValue();
+                for(int getKey : map.keySet()){
+                    if(map.get(getKey).equals(min_pre)){
+                        getkey = getKey;
+                        break;
+                    }
                 }
-           }
-           cache.remove(getkey);
+            }
+            cache.remove(getkey);
+            getkey = 0;
         }
         cache.put(key,value);
         minUsed.offer(timestamp);

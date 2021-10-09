@@ -1,6 +1,5 @@
 package src.day19;
 
-import javax.crypto.interfaces.PBEKey;
 
 /**
  * @author hly
@@ -14,5 +13,10 @@ public class test {
         obj.put(2,2);
         obj.get(1);
         obj.put(3,3);
+        int i = obj.get(2);
+        System.out.println(i);
+        obj.put(4,4);
+        int i1 = obj.get(1);
+        System.out.println(i1);
     }
 }
