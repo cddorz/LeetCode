@@ -8,10 +8,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat lc54--螺旋矩阵，按一定顺序遍历矩阵问题">
-      <change afterPath="$PROJECT_DIR$/src/双指针/lc16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数组/lc54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数组/lc384/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/双指针/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/双指针/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/双指针/test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +89,7 @@
       <module name="算法题" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.双指针.*" />
+          <option name="PATTERN" value="src.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.双指针.test" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.day19.test" />
       <module name="算法题" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.双指针.*" />
+          <option name="PATTERN" value="src.day19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +137,24 @@
       </method>
     </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.day19.test" />
+      <option name="MAIN_CLASS_NAME" value="src.test.test" />
       <module name="算法题" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.day19.*" />
+          <option name="PATTERN" value="src.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.test" />
+      <module name="算法题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,7 +289,9 @@
       <workItem from="1633833113438" duration="1087000" />
       <workItem from="1633920974761" duration="10000" />
       <workItem from="1633935043139" duration="761000" />
-      <workItem from="1634006651227" duration="1706000" />
+      <workItem from="1634006651227" duration="1754000" />
+      <workItem from="1634008461595" duration="768000" />
+      <workItem from="1634023616675" duration="2888000" />
     </task>
     <task id="LOCAL-00001" summary="day4">
       <created>1617550997898</created>
@@ -487,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633779191871</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="feat lc54--螺旋矩阵，按一定顺序遍历矩阵问题">
+      <created>1634008412435</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1634008412435</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
