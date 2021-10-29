@@ -7,7 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat 堆排序">
+    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat new lc1277">
+      <change afterPath="$PROJECT_DIR$/src/dp/lc55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/二叉树/lc106/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/二叉树/lc99/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -306,7 +309,13 @@
       <workItem from="1634116220838" duration="564000" />
       <workItem from="1634116853784" duration="3275000" />
       <workItem from="1634121172860" duration="21000" />
-      <workItem from="1634380792619" duration="626000" />
+      <workItem from="1634380792619" duration="720000" />
+      <workItem from="1634439692712" duration="2036000" />
+      <workItem from="1634715359475" duration="590000" />
+      <workItem from="1634866565465" duration="8000" />
+      <workItem from="1634877128934" duration="1727000" />
+      <workItem from="1635421256779" duration="2554000" />
+      <workItem from="1635470132078" duration="1392000" />
     </task>
     <task id="LOCAL-00001" summary="day4">
       <created>1617550997898</created>
@@ -539,7 +548,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634121066042</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="feat new lc1277">
+      <created>1634382017109</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1634382017109</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -558,7 +574,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: lc355 设计twitter" />
     <MESSAGE value="feat: lc92 反转链表Ⅱ" />
     <MESSAGE value="feat lc199 二叉树的右视图" />
     <MESSAGE value="feat lc105 构造二叉树" />
@@ -583,7 +598,8 @@
     <MESSAGE value="feat lc54--螺旋矩阵，按一定顺序遍历矩阵问题" />
     <MESSAGE value="feat lc384打乱数组" />
     <MESSAGE value="feat 堆排序" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat 堆排序" />
+    <MESSAGE value="feat new lc1277" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat new lc1277" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
