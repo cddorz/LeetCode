@@ -7,10 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat new lc1277">
-      <change afterPath="$PROJECT_DIR$/src/dp/lc55.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/二叉树/lc106/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/二叉树/lc99/Solution.java" afterDir="false" />
+    <list default="true" id="17b631c9-66e0-49de-90bb-aab3e9ed76e2" name="Default Changelist" comment="feat new leetcode">
+      <change afterPath="$PROJECT_DIR$/src/二叉树/lc112/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +77,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Application.test (1)">
@@ -315,7 +313,8 @@
       <workItem from="1634866565465" duration="8000" />
       <workItem from="1634877128934" duration="1727000" />
       <workItem from="1635421256779" duration="2554000" />
-      <workItem from="1635470132078" duration="1392000" />
+      <workItem from="1635470132078" duration="1460000" />
+      <workItem from="1635663709896" duration="1317000" />
     </task>
     <task id="LOCAL-00001" summary="day4">
       <created>1617550997898</created>
@@ -555,7 +554,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634382017109</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="feat new leetcode">
+      <created>1635472144640</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1635472144641</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -594,12 +600,12 @@
     <MESSAGE value="feat new lc" />
     <MESSAGE value="feat 翻转k个链表" />
     <MESSAGE value="feat 旋转链表，并且移动 k 位" />
-    <MESSAGE value="feat new leetcode" />
     <MESSAGE value="feat lc54--螺旋矩阵，按一定顺序遍历矩阵问题" />
     <MESSAGE value="feat lc384打乱数组" />
     <MESSAGE value="feat 堆排序" />
     <MESSAGE value="feat new lc1277" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat new lc1277" />
+    <MESSAGE value="feat new leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat new leetcode" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
